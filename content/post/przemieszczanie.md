@@ -6,8 +6,8 @@ post_image: "/images/przemieszczanie/przem1.jpg"
 tags: []
 title: "Przemieszczanie się względem czasu i miejsca"
 ---
-{{< figure src="/images/przemieszczanie/przem1.jpg" title="przem1" >}}
-{{< figure src="/images/przemieszczanie/przem2.jpg" title="przem2" >}}
-{{< figure src="/images/przemieszczanie/przem3.jpg" title="przem3" >}}
-{{< figure src="/images/przemieszczanie/przem4.jpg" title="przem4" >}}
-{{< figure src="/images/przemieszczanie/przem5.jpg" title="przem5" >}}
+{{< figure src="/images/przemieszczanie/przem1.jpg" >}}
+{{< figure src="/images/przemieszczanie/przem2.jpg" >}}
+{{< figure src="/images/przemieszczanie/przem3.jpg" >}}
+{{< figure src="/images/przemieszczanie/przem4.jpg" >}}
+{{< figure src="/images/przemieszczanie/przem5.jpg" >}}

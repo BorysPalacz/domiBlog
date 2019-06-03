@@ -6,8 +6,8 @@ post_image: "/images/pionki/pionki5.JPG"
 tags: []
 title: "Pionki"
 ---
-{{< figure src="/images/pionki/pionki1.JPG" title="pionki1" >}}
-{{< figure src="/images/pionki/pionki2.JPG" title="pionki2" >}}
-{{< figure src="/images/pionki/pionki3.JPG" title="pionki3" >}}
-{{< figure src="/images/pionki/pionki4.JPG" title="pionki4" >}}
-{{< figure src="/images/pionki/pionki5.JPG" title="pionki5" >}}
+{{< figure src="/images/pionki/pionki1.JPG" >}}
+{{< figure src="/images/pionki/pionki2.JPG" >}}
+{{< figure src="/images/pionki/pionki3.JPG" >}}
+{{< figure src="/images/pionki/pionki4.JPG" >}}
+{{< figure src="/images/pionki/pionki5.JPG" >}}
