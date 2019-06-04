@@ -2,11 +2,12 @@ title = "Dominika Gierszewska"
 baseURL = "https://sleepy-feynman-8fdbe6.netlify.com"
 languageCode = "pl"
 theme = "gohugo-theme-ananke"
+js = "suncalc.js"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "pl"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -16,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Artist"
   facebook = ""
   twitter = ""
   instagram = ""
