@@ -4,7 +4,7 @@ description: ""
 featured_image: "/images/dyplom/dyplom7.jpg"
 post_image: "/images/dyplom/dyplom7.jpg"
 tags: []
-title: "Przemieszczanie się względem miejsca i czasu"
+title: "Przemieszczanie się TEST"
 ---
 {{< figure src="/images/dyplom/dyplom2.jpg" >}}
 {{< figure src="/images/dyplom/dyplom3.jpg">}}

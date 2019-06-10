@@ -4,6 +4,6 @@ description: ""
 featured_image: "/images/sila.jpg"
 post_image: "/images/sila.jpg"
 tags: []
-title: "Siła"
+title: "Siła TEST"
 ---
 {{< figure src="/images/sila.jpg" >}}
