@@ -1,9 +1,7 @@
 ---
-title: CV
+title: "CV"
 featured_image: "/images/degie.jpg"
-description: This is an example of a custom shortcode that you can put right into your content.
 type: page
-omit_header_text: true
 menu:
   main: {}
 

@@ -2,6 +2,7 @@
 title: "Bio"
 featured_image: '/images/degie.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+**Dominika Gierszewska** urodzona w roku 1994 w Iławie. Absolwentka Zespołu Szkół Plastycznych w Gdyni Orłowie na specjalizacji ceramika. W roku 2017 działaniem performance o tytule " Przemieszczanie się tożsamości względem czasu i miejsca" obroniła dyplom licencjacki na Wydziale Działań Przestrzennych w pracowni prof. dr hab. Marcina Berdyszaka, prof. zw. UAP. W 2018 roku zakwalifikowała się do wymiany studenckiej z uczelnią National College of Art and Design w
+Irlandii gdzie studiowała na wydziale Sculpture and Expanded Practice. Po kilkuletnich bataliach nad wyborem swojego medium - poprzez eksperymenty z performancem oraz poezją, ponownie powraca do
+tworów 3D tj. obiektów i instalacji.

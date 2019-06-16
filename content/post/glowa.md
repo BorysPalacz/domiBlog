@@ -6,7 +6,7 @@ post_image: "/images/glowa/glowa1.JPG"
 tags: []
 title: "Głowa, która zadecydowała za mnie"
 ---
-**Głowa zadecydowała za mnie,** Na przeciw, 2017, Poznań, Polska
+Galeria Na Przeciw, 2017, Poznań, Polska.
 
  Gdy opisać chcemy wszystko, ale brakuje oddechu. Rześkie i nagłe opisy zdarzeń, które w uroku swoim zamykają wszystko i na wszystko dają przyzwolenie - forma nie jest w stanie się domknąć.  
 
