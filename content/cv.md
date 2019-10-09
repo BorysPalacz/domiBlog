@@ -6,61 +6,44 @@ menu:
   main: {}
 
 ---
-### Curriculum Vitae
-<br/>
+<div style="text-align: left">
 
-### Dane osobiste:
-Dominika Gierszewska
+**Curriculum Vitae**
 
-Polska
+**Edukacja:**
 
-03.09.2019
+2019 - 2021 Intermedia, Wydział Sztuki Mediów, Uniwersytet Artystyczny, Poznań, Polska. <br>
+01.2018 - 05.2018 Sculpture and Expanded Practice, National College of Art and Design, Dublin, Irlandia. <br>
+2014-2018 Wydział Rzeźby i Działań Przestrzennych, Uniwersytet Artystyczny, Poznań, Polska. <br>
+2010-2014  Ceramika, Liceum Plastyczne, Gdynia, Polska. <br>
 
-e-mail: d_gie@vp.pl
+ **Wystawy:**
 
-<br/>
-### Edukacja:
+2019 Chwile jeżdżące górą, Próżnia, Szczecin, Polska. <br>
+2019 Trash, Luka, Poznań, Polska. <br>
+2018  All Other Places, Point Square, Dublin, Irlandia. <br>
+2017 Przemieszczanie się toższamości względem czasu i miejsca, performans, MTP, Poznań, Polska. <br>
+2017 Głowa, która zadecydowała za mnie, wystawa zorganizowana we współpracy z N.Karczewską, Na Przeciw, Poznań, Polska. <br>
 
-2010-2014  Ceramika, Liceum Plastyczne, Gdynia, Polska
+ **Plenery & Festiwale:**
 
-2014-2018 Wydział Rzeźby i Działań Przestrzennych, Uniwersytet Artystyczny, Poznań, Polska
+2017 Performance Platform Lublin, Lublin Polska. <br>
+2017 Centrum Rzeźby Polskiej, Orońsko, Polska. <br>
+2016 Międzynarodowy Plener Performansu, Skoki, Polska. <br>
+2016 Plener Rzeźbiarski, Skoki. Polska. <br>
+2015 Plener Rysunkowy, Skoki, Polska. <br>
 
-01.2018 - 05.2018 Sculpture and Expanded Practice, National College of Art and Design, Irlandia, Dublin  
-<br/>
+**Prowadzone warsztaty:**
 
-### Wystawy:
+2019 Warsztaty ceramiczne z okazji stulecia Wydziału Rzeźby UAP, Ichot, Poznań, Polska. <br>
+2019 Warsztaty ceramiczne dla dzieci i młodzieży, UAP, Poznań, Polska <br>
 
-2017 Głowa, która zadecydowała za mnie, wystawa zorganizowana we współpracy z N.Karczewską, Na Przeciw, Poznań, Polska
+**Publikacje:**
 
-2017 Przemieszczanie się toższamości względem czasu i miejsca, performans, MTP, Poznań, Polska
+30.05.2018  Publikacja pracy w Zinie 'Porażka', Poznań, Polska.  <br>
+19.03.2017  Publikacja pracy rzeźbiarskiej w Zinie ' Dziewczyństwo', Poznań, Polska. <br>
 
-2018  All Other Places, Point Square, Dublin, Irlandia
-
-2019 Chwile jeżdżące górą, Próżnia, Szczecin, Polska
-
-2019 Trash, Luka, Poznań, Polska  
-<br/>
-
-### Warsztaty:
-
-2015 Plener Rysunkowy, Skoki, Polska
-
-2016 Plener Rzeźbiarski, Skoki, Polska
-
-2016 Międzynarodowy Plener Performansu, Skoki, Polska
-
-2017 Centrum Rzeźby Polskiej, Orońsko, Polska
-
-2017 Performance Platform Lublin, Polska
-
-<br/>
-### Publikacje:
-
-Publikacja pracy rzeźbiarskiej w Zinie 'Dziewczyństwo', 19.03.2017, Poznań, Polska
-
-Publikacja pracy w Zinie 'Porażka', 30.05.2018
-
-<br/>
-Jeśli chcesz się ze mną skontaktować to wypełnij formularz. 
-
+\
+\
+</div>
 {{< form-contact action="https://formspree.io/dominikagierszewska9@gmail.com"  >}}

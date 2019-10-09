@@ -1,5 +1,5 @@
 title = "Dominika Gierszewska"
-baseURL = "https://sleepy-feynman-8fdbe6.netlify.com"
+baseURL = "https://dominikagierszewska.com"
 languageCode = "pl"
 theme = "gohugo-theme-ananke"
 js = "suncalc.js"
