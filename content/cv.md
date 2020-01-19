@@ -18,7 +18,9 @@ menu:
 2010-2014  Ceramika, Liceum Plastyczne, Gdynia, Polska. <br>
 
  **Wystawy:**
-
+ 
+2019 and I recall.2:1, Scena Otwarta, Poznań, Polska. <br>
+2019 ­­­­­­­­­­ZINFEST // Targi zinów i artbooków, DOMIE, Poznań, Polska <br>
 2019 Chwile jeżdżące górą, Próżnia, Szczecin, Polska. <br>
 2019 Trash, Luka, Poznań, Polska. <br>
 2018  All Other Places, Point Square, Dublin, Irlandia. <br>
