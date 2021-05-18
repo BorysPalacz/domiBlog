@@ -1,6 +1,6 @@
 ---
 title: "CV"
-featured_image: "/images/degie.jpg"
+featured_image: "/images/recall/recall1.jpg"
 type: page
 menu:
   main: {}
@@ -24,7 +24,7 @@ menu:
 2019 Chwile jeżdżące górą, Próżnia, Szczecin, Polska. <br>
 2019 Trash, Luka, Poznań, Polska. <br>
 2018  All Other Places, Point Square, Dublin, Irlandia. <br>
-2017 Przemieszczanie się toższamości względem czasu i miejsca, performans, MTP, Poznań, Polska. <br>
+2017 Przemieszczanie się tożsamości względem czasu i miejsca, performans, MTP, Poznań, Polska. <br>
 2017 Głowa, która zadecydowała za mnie, wystawa zorganizowana we współpracy z N.Karczewską, Na Przeciw, Poznań, Polska. <br>
 
  **Plenery & Festiwale:**

@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-featured_image: '/images/degie.jpg'
+featured_image: '/images/recall/recall1.jpg'
 ---
 <div style="text-align: justify">
  <strong> Dominika Gierszewska (ur. 1994) </strong>

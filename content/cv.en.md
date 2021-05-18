@@ -1,6 +1,6 @@
 ---
 title: "CV"
-featured_image: "/images/degie.jpg"
+featured_image: "/images/recall/recall1.jpg"
 type: page
 menu:
   main: {}

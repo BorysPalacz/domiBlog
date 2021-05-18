@@ -1,6 +1,6 @@
 {{ $post_image := .Params.post_image }}
 <article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+  <div class="db pv4 ph3 ph0-l no-underline black">
     <div class="flex flex-column flex-row-ns">
       {{ if .Params.post_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
@@ -12,7 +12,7 @@
         </div>
       {{ end }}
       <div class="blah mt5 pt4 w-100{{ if .Params.post_image }} w-60-ns pl3-ns{{ end }}">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
+        <h1 class="f3 fw1 avenir mt0 lh-title">
           <a href="{{.URL}}" class="color-inherit dim link">
             {{ .Title }}
             </a>

@@ -20,7 +20,7 @@
       </h1>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-        {{- .Date.Format "January 2, 2006" -}}
+        {{- .Date.Format "2006" -}}
       </time>      
       {{/*  
           Show "reading time" and "word count" but only if one of the following are true:
@@ -34,7 +34,7 @@
       {{ end }}
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <section class="nested-copy-line-height lh-copy avenir f4 nested-links nested-img dark pr4-l w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">
