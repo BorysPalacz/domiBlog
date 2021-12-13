@@ -6,11 +6,12 @@ post_image: "/images/recall/recall1.jpg"
 tags: []
 title: "and I recall. 2:1"
 ---
-and I recall. 2:1, autorzy: Dominika Gierszewska / Iwetta Tomaszewska, Scena Otwarta, 2019.
+Quasi-poetycki zbiór wierszy oraz tekstów, w których głównym tematem jest śmieciarka, panowie spod bloku, duchy, nieprzyswajalność blokowej rzeczywistości, dziwnie znajoma twarz jak z opakowania po kinder bueno czy twarze w panelach podłogowych. 
 
-Zin ten powstał jako forma dopełnienia znaczeń dla prac obiektowych, znajdujących się na wystawie "and I recall. 2:1" zorganizowanej w listopadzie 2019r w Scenie Otwartej w  Poznaniu. Zbiór tekstów oraz szkiców będących refleksją na temat codzienności.
+Zin ten powstał jako forma dopełniająca dla prac obiektowych, znajdujących się na wystawie and I recall. 2:1 zorganizowanej w listopadzie 2019 r w Scenie Otwartej w Poznaniu. Jest to zbiór tekstów oraz szkiców będących refleksją na temat codzienności. Był prezentowany na wystawie po festiwalowej  ZINFEST// Targi zinów i artbooków organizowanej przez Wydawnictwo Bomba w listopadzie ‘19.
 
-Zin "and I recall. 2:1" był prezentowany również na wystawie pofestiwalowej „ZINFEST// Targi zinów i artbooków” organizowanej przez Wydawnictwo Bomba w listoadzie 2019 r.
+*projekt posiadający współautorów / autorki: Dominika Gierszewska & Iwetta Tomaszewska
+
 {{< figure src="/images/recall/recall1.jpg">}}
 {{< figure src="/images/recall/recall2.jpg">}}
 

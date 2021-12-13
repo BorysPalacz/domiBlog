@@ -6,6 +6,8 @@ post_image: "./images/szuflada/szuflada1.JPG"
 tags: []
 title: "Szuflada w kieszeni"
 ---
+W zasadzie praca ta sama tłumaczy się swoim tytułem, a formę tekstową rozpisaną na wewnętrznej stronie kieszeni, możemy potraktować jako tytuł dopełniający. One oba nakierowują uwagę widza za szufladę, do której możemy wskoczyć i się w niej rozpłaszczyć, zadomowić. 
+
 
 Wokół pokoju przebieżka,
 
@@ -19,7 +21,7 @@ długi.
 
 Zamaszyste ruchy.
 
-wiązka uśmiechu 
+wiązka uśmiechu
 
 rozświetla przechodniom serca.
 
@@ -27,7 +29,7 @@ Puchowe płetwy.
 
 Zasiadasz do szuflady,
 
-cygiel.
+cyngiel.
 
 {{< figure src="/images/szuflada/szuflada1.JPG" >}}
 {{< figure src="/images/szuflada/szuflada2.JPG" >}}
