@@ -14,3 +14,7 @@
   padding-left: 1rem;
 
 }
+
+.nested-img img {
+  width: auto;
+}

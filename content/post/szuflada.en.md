@@ -1,8 +1,8 @@
 ---
 date: 2021-01-03T11:14:48-04:00
 description: ""
-featured_image: "./images/szuflada/szuflada1.JPG"
-post_image: "./images/szuflada/szuflada1.JPG"
+featured_image: "/images/szuflada/szuflada1.jpg"
+post_image: "/images/szuflada/szuflada1.jpg"
 tags: []
 title: "Szuflada w kieszeni"
 ---
