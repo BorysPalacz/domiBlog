@@ -36,4 +36,4 @@ enableRobotsTXT = true
     languageName="PL"
   [languages.en]
     weight=2
-    languageName="ENG"
+    languageName="EN"
