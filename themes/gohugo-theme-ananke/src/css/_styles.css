@@ -18,3 +18,11 @@
 .nested-img img {
   width: auto;
 }
+
+h1{
+  margin: 0;
+}
+
+.measure-wide{
+  max-width: 50rem;
+}
