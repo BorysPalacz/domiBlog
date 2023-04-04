@@ -10,6 +10,10 @@ menu:
 
 **Wystawy & Festiwale:**
 
+2023 NADCHODZĄCA Wystawa indywidualna, Gdańska Galeria Miejska, Polska. 
+
+2022 Najlepsze Dyplomy ASP 2021, Gdańsk, Polska.
+
 2021 WUNDRECAMERA STUDIO, wystawa studencka, Poznań, Polska. 
 
 2020 THIS SUMMER vol.1, Czapski Art Fundation, Poznań, Polska. 
@@ -24,7 +28,7 @@ menu:
 
 2019 Trash, Luka, Poznań, Polska.
 
-2018  All Other Places, Point Square, Dublin, Irlandia.
+2018 All Other Places, Point Square, Dublin, Irlandia.
 
 2017 Przemieszczanie się toższamości względem czasu i miejsca, performans, MTP, Poznań, Polska.
 
@@ -50,7 +54,7 @@ menu:
 
 **Prowadzone warsztaty:**
 
-2019  Warsztaty ceramiczne z okazji stulecia Wydziału Rzeźby UAP, Ichot, Poznań, Polska.
+2019 Warsztaty ceramiczne z okazji stulecia Wydziału Rzeźby UAP, Ichot, Poznań, Polska.
 
 2019 Warsztaty ceramiczne dla dzieci i młodzieży, UAP, Poznań, Polska
 

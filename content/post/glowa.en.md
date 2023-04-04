@@ -4,7 +4,7 @@ description: ""
 featured_image: "/images/glowa/glowa1.JPG"
 post_image: "/images/glowa/glowa1.JPG"
 tags: []
-title: "Głowa, która zadecydowała za mnie"
+title: "The head that decided for me"
 ---
 
  When we want to describe everything but we are short of breath. Brisk and sudden descriptions of events, which in their charm close everything and give consent to everything – the form is not able to close itself.

@@ -11,6 +11,10 @@ menu:
 
 **Exhibitions & Festivals:**
 
+2023 UPCOMING Solo Exhibition, Gdansk City Gallery, Poland. 
+
+2022 Best Diplomas of the Academy of Fine Arts, Gdańsk, Poland.
+
 2021 WUNDRECAMERA STUDIO, students exhibition, Poznań, Poland.
 
 2020 THIS SUMMER vol.1, Czapski Art Fundation, Poznań, Poland.
